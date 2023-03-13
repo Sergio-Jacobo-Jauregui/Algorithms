@@ -1,0 +1,26 @@
+(adj) deadliest -> mas mortal
+(adj) likely -> probable, posible, verosimil
+(adj) western -> occidenteal
+(adj) lesser -> menor
+
+(n) toll ->  peaje, numero de victimas, mortalidad
+(n) outbreaks -> brote, estallido, epidemia 
+(n) lung -> pulmones
+(n) lack -> carencia, falta
+(n) downtown -> centro de la ciduad
+(n) seek -> buscar, en el sentido de sensaciones
+(n) currency -> divisa, moneda
+(n) waterfalls -> cascadas
+(n) roads -> camino
+(n) highways -> carretera
+(n) tent -> carpa
+(n) cracks -> grietas
+
+(v) relieve -> aliviar
+(v) raise  -> elevarse
+(v) place -> colocar
+
+(conj) though -> aunque
+
+(prep) through -> a traves de
+
